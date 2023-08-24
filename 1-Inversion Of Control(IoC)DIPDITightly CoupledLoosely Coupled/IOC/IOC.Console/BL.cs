@@ -5,7 +5,7 @@
         private readonly DAL _dal;
         public BL()
         {
-            _dal = new DAL();
+            _dal = DALFactory.GetDAL();
         }
 
         public List<Product> GetProducts()
