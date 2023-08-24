@@ -1,0 +1,14 @@
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\bin\Debug\net7.0\IOC.Console.exe
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\bin\Debug\net7.0\IOC.Console.deps.json
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\bin\Debug\net7.0\IOC.Console.runtimeconfig.json
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\bin\Debug\net7.0\IOC.Console.dll
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\bin\Debug\net7.0\IOC.Console.pdb
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\IOC.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\IOC.Console.AssemblyInfoInputs.cache
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\IOC.Console.AssemblyInfo.cs
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\IOC.Console.csproj.CoreCompileInputs.cache
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\IOC.Console.dll
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\refint\IOC.Console.dll
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\IOC.Console.pdb
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\IOC.Console.genruntimeconfig.cache
+D:\Github\InversionOfControl-DependencyInjection\1-Inversion Of Control(IoC)DIPDITightly CoupledLoosely Coupled\IOC\IOC.Console\obj\Debug\net7.0\ref\IOC.Console.dll
