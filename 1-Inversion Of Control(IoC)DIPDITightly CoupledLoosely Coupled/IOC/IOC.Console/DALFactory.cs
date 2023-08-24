@@ -2,9 +2,9 @@
 {
     public class DALFactory
     {
-        public static DAL GetDAL()
+        public static IDAL GetDAL()
         {
-            return new();
+            return new DAL();
         }
     }
 }
