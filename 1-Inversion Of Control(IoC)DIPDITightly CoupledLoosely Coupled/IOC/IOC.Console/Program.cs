@@ -1,6 +1,6 @@
 ﻿using IOC.Console;
 
-BL bl = new();
+BL bl = new(new OracleDAL());
 
 bl.GetProducts().ForEach(x =>
 {

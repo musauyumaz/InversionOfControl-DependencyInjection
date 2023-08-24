@@ -2,6 +2,7 @@
 {
     public class DAL : IDAL
     {
+        //Sql Server
         public List<Product> GetProducts()
         {
             return new List<Product>()

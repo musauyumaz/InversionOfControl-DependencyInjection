@@ -3,9 +3,9 @@
     public class BL
     {
         private readonly IDAL _dal;
-        public BL()
+        public BL(IDAL dal)
         {
-            _dal = DALFactory.GetDAL();
+            _dal = dal;
         }
 
         public List<Product> GetProducts()
