@@ -6,15 +6,17 @@ namespace IOC.Web.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ISingletonDateService _singletonDateService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ISingletonDateService singletonDateService)
         {
-            _logger = logger;
+            _singletonDateService = singletonDateService;
         }
 
-        public IActionResult Index()
+        public IActionResult Index([FromServices]ISingletonDateService singletonDateService2)
         {
+            ViewBag.time1 = _singletonDateService.GetDateTime.TimeOfDay.ToString();
+            ViewBag.time2 = singletonDateService2.GetDateTime.TimeOfDay.ToString();
             return View();
         }
 
