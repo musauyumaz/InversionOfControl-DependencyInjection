@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLu7ElwFZH/f6NTjf0NjOlAIoakxfR05+ARHctWe26+SctEA4+YNetUynHx7AT2g0T+H+kXCsbo4bJ2+5dfaOw==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\InversionOfControl-DependencyInjection\\3-SingletonScopedTransient\\SingletonScopedTransient\\SingletonScopedTransient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\musau\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
